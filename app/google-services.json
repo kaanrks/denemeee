@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956663773653",
+    "project_id": "root-124bb",
+    "storage_bucket": "root-124bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956663773653:android:a4ea6557fd8ddba93ae55c",
+        "android_client_info": {
+          "package_name": "com.example.btrm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeoicCVq0hQPmsp9-g-l4ETBE7R7D5xE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
