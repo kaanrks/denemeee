@@ -75,8 +75,7 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this,e.getLocalizedMessage(),Toast.LENGTH_LONG).show();
                     }
                 });
-//qweasdasdasdda
-//////kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
 
         }
 
