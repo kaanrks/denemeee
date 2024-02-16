@@ -15,6 +15,9 @@
         android:theme="@style/Theme.SiestasiestaBitirme"
         tools:targetApi="31">
         <activity
+            android:name=".denemee"
+            android:exported="false" />
+        <activity
             android:name=".sondeneme"
             android:exported="false" />
         <activity
